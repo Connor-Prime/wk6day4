@@ -1,0 +1,34 @@
+/* Shop Page CSS */
+
+
+.shop-header {
+    background-image: url("https://gamewardbound.com/wp-content/uploads/2020/11/ikea-kallax-shelves-complete-second-shelf.jpg");
+    background-size: cover;
+    height: 1200px;
+    color: rgba(255, 255, 255, 0.668); 
+}
+
+.shop-stats {
+    color: white; 
+}
+
+.about-text{
+    margin-top: 40vh;
+}
+
+.white-text{
+    font-size: large;
+    color: white;
+}
+
+body{
+    background-color: rgb(57, 55, 55);
+}
+
+.white-background{
+    background-color: rgb(152, 208, 208);
+}
+
+.black-text{
+    color: black;
+}
